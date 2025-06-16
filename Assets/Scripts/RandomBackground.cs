@@ -18,7 +18,7 @@ public class RandomBackgroundUI : MonoBehaviour
 
         int index = Random.Range(0, backgroundSprites.Length-1);
 
-        //backgroundImage.sprite = backgroundSprites[index];
-        backgroundImage.sprite = backgroundSprites[3];
+        backgroundImage.sprite = backgroundSprites[index];
+        //backgroundImage.sprite = backgroundSprites[3];
     }
 }
