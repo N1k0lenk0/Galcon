@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f630ea7a240c5e442a1bd99db1a98481
+guid: ad335642497b3d1468ab0b7433fe2a9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3639098507089339245
-    second: SKY_BG1_0
+      213: 2786843637651034567
+    second: troop_grey_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SKY_BG1_0
+      name: troop_grey_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 1920
-        height: 1080
+        width: 47
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39c194640335f7dc0800000000000000
-      internalID: -3639098507089339245
+      spriteID: 7c15fbae58bdca620800000000000000
+      internalID: 2786843637651034567
       vertices: []
       indices: 
       edges: []
